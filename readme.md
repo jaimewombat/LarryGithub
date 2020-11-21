@@ -2,5 +2,5 @@
 
 Esta saga de libros cuenta la historia de un hacker excepcional
 
-**Jaime Pérez**
+**Jaime Pérez** Larry Plotter fan
 *jaimeperezdev@gmail.com*
